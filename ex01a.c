@@ -1,6 +1,3 @@
-/* EX.NO: 1.1  ARRAY IMPLEMENTATION OF LIST ADT
-   AIM: To write a C program to implement List ADT operations using array. */
-
 #include <stdio.h>
 #define MAX_SIZE 100
 
