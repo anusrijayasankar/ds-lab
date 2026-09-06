@@ -23,3 +23,43 @@ Enter your choice
 4	-> Search
 0	-> Exit
 1
+Enter key element to insert 8 Enter your choice
+1	-> Insert
+2	-> Delete
+3	-> Display
+4	-> Search 0 -> Exit
+1
+Enter key element to insert 18 Enter your choice
+1	-> Insert
+2	-> Delete
+3	-> Display
+4	-> Search
+0	-> Exit
+3
+Index Value
+0	25
+1	Empty
+2	20
+3	8
+4	18
+Enter your choice
+1	-> Insert
+2	-> Delete
+3	-> Display
+4	-> Search
+0	-> Exit
+2
+Enter element to delete 8
+Element deleted Enter your choice
+1	-> Insert
+2	-> Delete
+3	-> Display
+4	-> Search
+0	-> Exit
+3
+Index Value
+0	25
+1	Empty
+2	20
+3	Deleted
+4	18
