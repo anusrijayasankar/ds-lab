@@ -1,0 +1,30 @@
+Insert at End
+Delete Node
+Print List
+Exit
+Enter your choice: 1 
+Enter data to insert: 52
+Insert at End
+Delete Node
+Print List
+Exit
+Enter your choice: 1
+Enter data to insert: 56 
+Insert at End
+Delete Node
+Print List
+Exit
+Enter your choice: 1
+Enter data to insert: 75
+Insert at End
+Delete Node
+Print List
+Exit
+Enter your choice: 1 
+Enter data to insert: 89 
+Insert at End
+Delete Node
+Print List 
+Exit
+Enter your choice: 3
+Circular Linked List: 52 56 75 89
