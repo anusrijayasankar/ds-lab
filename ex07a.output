@@ -1,0 +1,9 @@
+2 -> 1 ->
+3 -> 2 -> 0 ->
+3 -> 1 -> 0 ->
+2 -> 1 ->
+BFS Traversal starting from vertex 0:
+Visited 0
+Visited 2
+Visited 1
+Visited 3
