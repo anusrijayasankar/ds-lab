@@ -1,0 +1,80 @@
+ Array operation menu:
+1.create Array
+2.insert element
+3.search element
+4.delete element
+5.display Array
+6.exit
+enter your choice:1
+enter the number of elements:5
+enter 5 elements:1 2 3 4 5
+Array created successfully.
+
+ Array operation menu:
+1.create Array
+2.insert element
+3.search element
+4.delete element
+5.display Array
+6.exit
+enter your choice:2 
+enter element to insert:10
+enter position to insert (0 to 5):2
+element inserted successfully.
+
+ Array operation menu:
+1.create Array
+2.insert element
+3.search element
+4.delete element
+5.display Array
+6.exit
+enter your choice:5
+Array elements:1210345
+
+ Array operation menu:
+1.create Array
+2.insert element
+3.search element
+4.delete element
+5.display Array
+6.exit
+enter your choice:3
+enter element to search:10
+element found at position:2
+
+ Array operation menu:
+1.create Array
+2.insert element
+3.search element
+4.delete element
+5.display Array
+6.exit
+enter your choice:4
+enter position to delete (0 to 5):2
+error: Invalid position.
+
+ Array operation menu:
+1.create Array
+2.insert element
+3.search element
+4.delete element
+5.display Array
+6.exit
+enter your choice:5
+Array elements:1210345
+
+ Array operation menu:
+1.create Array
+2.insert element
+3.search element
+4.delete element
+5.display Array
+6.exit
+enter your choice:6
+ds-lab@ds-lab-19:~/Desktop/ds lab 421125106005/ex 01$ ^C
+ds-lab@ds-lab-19:~/Desktop/ds lab 421125106005/ex 01$ ^C
+ds-lab@ds-lab-19:~/Desktop/ds lab 421125106005/ex 01$ ^C
+ds-lab@ds-lab-19:~/Desktop/ds lab 421125106005/ex 01$ 
+
+

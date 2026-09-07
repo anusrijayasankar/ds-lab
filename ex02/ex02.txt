@@ -1,0 +1,35 @@
+1. insert at end
+2. delete Node
+3. print list
+0. exit
+enter your choice:1
+enter data to insert:23
+
+1. insert at end
+2. delete Node
+3. print list
+0. exit
+enter your choice:1
+enter data to insert:25
+
+1. insert at end
+2. delete Node
+3. print list
+0. exit
+enter your choice:2
+enter data to delete:75
+key not found in the list
+
+1. insert at end
+2. delete Node
+3. print list
+0. exit
+enter your choice:3
+circular Linked List:
+1. insert at end
+2. delete Node
+3. print list
+0. exit
+enter your choice:0
+Exiting...
+

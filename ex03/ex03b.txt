@@ -1,0 +1,49 @@
+Queue operations menu:
+1. enqueue
+2. dequeue
+3. display
+4. exit
+enter your choice:1
+enter element to enqueue:30
+element enqueued:30
+
+ Queue operations menu:
+1. enqueue
+2. dequeue
+3. display
+4. exit
+enter your choice:2
+dequeue element :30
+
+ Queue operations menu:
+1. enqueue
+2. dequeue
+3. display
+4. exit
+enter your choice:50
+invalid choice! please enter a valid option.
+
+ Queue operations menu:
+1. enqueue
+2. dequeue
+3. display
+4. exit
+enter your choice:3
+Queue is empty.
+
+ Queue operations menu:
+1. enqueue
+2. dequeue
+3. display
+4. exit
+enter your choice:1
+enter element to enqueue:8
+element enqueued:8
+
+ Queue operations menu:
+1. enqueue
+2. dequeue
+3. display
+4. exit
+enter your choice:4
+
