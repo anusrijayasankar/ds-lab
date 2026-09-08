@@ -1,0 +1,2 @@
+stack operations menu:
+1. push
